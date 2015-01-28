@@ -1,6 +1,6 @@
 # Changelog
 
-### 2.14.0 (December 10, 2014)
+### WIP
   - IMPORTANT: Replaced uk-position-absolute with uk-position-top
   - Added uk-panel-hover to panel component
   - Added uk-text-contrast to text component
